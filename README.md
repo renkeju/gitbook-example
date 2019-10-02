@@ -70,8 +70,7 @@
 
 2. 在项目 `Settings` -> `GitHub Pages`开启 Github Pages 服务:
 
-
-    ![Github Pages 设置][3]
+   ![Github Pages 设置][3]
 
 ## Travis CI
 
