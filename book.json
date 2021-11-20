@@ -28,6 +28,8 @@
     "plugins": [
         "-lunr",
         "-search",
+        "todo",
+        "expandable-chapters",
         "search-plus",
         "github",
         "todo",
